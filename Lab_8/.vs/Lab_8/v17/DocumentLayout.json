@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|solutionrelative:Lab_8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|solutionrelative:Lab_8\\Signal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|solutionrelative:Lab_8\\SignalManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|solutionrelative:Lab_8\\SignalManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CEFFAE9-5AE7-4272-82E9-8CCAB0A2369C}|Lab_8\\Lab_8.vcxproj|solutionrelative:Lab_8\\Signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\main.cpp",
+              "RelativeDocumentMoniker": "Lab_8\\main.cpp",
+              "ToolTip": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\main.cpp",
+              "RelativeToolTip": "Lab_8\\main.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T14:07:34.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.cpp",
+              "RelativeDocumentMoniker": "Lab_8\\SignalManager.cpp",
+              "ToolTip": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.cpp",
+              "RelativeToolTip": "Lab_8\\SignalManager.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T14:07:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignalManager.h",
+              "DocumentMoniker": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.h",
+              "RelativeDocumentMoniker": "Lab_8\\SignalManager.h",
+              "ToolTip": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\SignalManager.h",
+              "RelativeToolTip": "Lab_8\\SignalManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-02T14:07:08.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signal.h",
+              "DocumentMoniker": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.h",
+              "RelativeDocumentMoniker": "Lab_8\\Signal.h",
+              "ToolTip": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.h",
+              "RelativeToolTip": "Lab_8\\Signal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-02T14:06:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signal.cpp",
+              "DocumentMoniker": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.cpp",
+              "RelativeDocumentMoniker": "Lab_8\\Signal.cpp",
+              "ToolTip": "C:\\Users\\Serhii\\source\\repos\\Lab_8\\Lab_8\\Signal.cpp",
+              "RelativeToolTip": "Lab_8\\Signal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T14:01:18.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
